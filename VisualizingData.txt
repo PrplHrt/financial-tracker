@@ -1,0 +1,12 @@
+Customer Name:
+    Name
+Items:
+    Item1   Price1
+    Item2   Price2
+    Item3   Price3
+Total:
+Eligible for SF: True/False
+NET Total:
+Remarks:
+Payment Method:
+ Keep static :- Shipment Fee

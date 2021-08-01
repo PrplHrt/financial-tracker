@@ -46,6 +46,8 @@ ws.title = "8_1_2021"
 # Changing tab color
 ws.sheet_properties.tabColor = "C8A2C8"
 
+
+
 for i in range(3):
     name, item, price = input().split()
     n =ws.cell(row = i+1, column=1)
